@@ -1,0 +1,86 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #fcf6f8;
+}
+
+header {
+    background-color: #fcf6f8;
+    text-align: center;
+    margin: 0%;
+    height: 90px;
+    padding: 1%;
+    display: flex;
+    height: 280px;
+    border-bottom: 6px solid white;
+}
+
+.titulo {
+    text-align: center;
+    color: #fcf6f8;
+}
+
+.informacoes {
+    border-style: ridge;
+    margin: 3%;
+    padding: 2%;
+    padding-right: 10%;
+    border-radius: 5px;
+    background-color: #0000;
+    align-items: center;
+}
+
+.atendimento {
+    border-style: ridge;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #0000;
+}
+
+a:link {
+    color:#FF00FF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F00;
+    text-decoration: none;
+    
+}
+
+.saudacoes {
+    text-align: center;
+}
+
+.novidade {
+    text-align: center;
+}
+
+.unidades {
+    text-align: center;    
+}
+
+.img {
+    text-align: center;
+}
+
+.login {
+    background-color: 	#FFE4E1;
+    color: #FF00FF;
+    text-decoration: none;
+}
+
+.quemsomos {
+    color: #FF00FF;
+    text-decoration: none;
+}
+
+.atendimento2 {
+    color: #FF00FF;
+    text-decoration: none;
+}
+
+.nomeloja {
+    color: #e8cfd2;
+}
